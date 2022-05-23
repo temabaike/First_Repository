@@ -1,0 +1,18 @@
+:root{
+  --font-weight: 400;
+  --font-weight-bold: 700;
+  --font-family-heading: 'Josefin Sans', sans-serif;
+  --font-family-main:'Mulish', sans-serif;
+  --main-bg:#FFFFFF;
+  --comment-bg:#F9F9F9;
+  --footer-bg:#232323;
+  --footer-end-bg:#323232;
+}
+*{
+  text-decoration: none;
+  list-style: none;
+}
+body,div,h1,h2,h3,p,span,ul,li, figure{
+margin: 0;
+padding: 0;
+}
